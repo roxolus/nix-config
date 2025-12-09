@@ -1,2 +1,2 @@
 # nixos-config
-# nix-config
+# super duper nix configuration re pro
